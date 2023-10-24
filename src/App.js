@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
       Hello
-      <a href='#' className='btn btn-primary'>Again</a>
+      <a href='/' className='btn btn-primary'>Again</a>
       </header>
     </div>
   );
