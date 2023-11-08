@@ -6,13 +6,12 @@ function App() {
   return (
     <div className="App">
       <div className='container'>
-      <header className="App-header text-center">
-      Hello
-      <a href='/' className='btn btn-primary'>Again</a>
-      </header>
-      <main>
-        <Dictionary />
-      </main>
+          <header className="App-header text-center">
+          Dictionary
+          </header>
+          <main>
+          <Dictionary defaultKeyword="vibe" />
+          </main>
       <footer className='App-footer'>Coded by Ana FM Tavares</footer>
     </div>
     </div>
