@@ -12,7 +12,7 @@ function App() {
           <main>
           <Dictionary defaultKeyword="vibe" />
           </main>
-      <footer className='App-footer'>Coded by Ana FM Tavares</footer>
+      <footer className='App-footer'>This page was coded by Ana FM Tavares and is open-sourced on <a href='https://github.com/anafmt/dictionary-project' target='_blank' rel="noreferrer">Github</a></footer>
     </div>
     </div>
   );
