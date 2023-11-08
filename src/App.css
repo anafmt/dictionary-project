@@ -1,12 +1,18 @@
 body {
-    background: #f9f8fe;
+    background: #9d99b183;
 }
 
 a {
     color:#9670f4;
 }
 
+.App {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
 .App-header {
+    color: white;
     font-size: 40px;
     font-weight: bold;
     line-height: 1.5;
