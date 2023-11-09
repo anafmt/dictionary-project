@@ -54,7 +54,7 @@ export default function Dictionary (props) {
                 <form onSubmit={handleSubmit}>
                     <input type="search" autoFocus={true} onChange={handleKeywordChange} placeholder="Lookup a word..." />
                 </form>
-                <div className="hint">suggested words: ocean, queer, yellow, pilates...</div>
+                <div className="hint">i.e. algeria, ocean, queer, yellow, zimbabwe, window</div>
                 </section>
         <Results results={results} />
         <Photos photos={photos} />
